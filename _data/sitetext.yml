@@ -68,15 +68,14 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-
-
-
-
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: # IceNet
+    # body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+    body: 
+    
+    # IceNet
 
 IceNet is a deep learning sea ice forecasting system developed by an [international team and led by the British Antarctic Survey and The Alan Turing Institute](https://www.bas.ac.uk/media-post/artificial-intelligence-to-help-predict-arctic-sea-ice-loss/).
 The original IceNet research model, [published in *Nature Communications*](https://www.nature.com/articles/s41467-021-25257-4) was trained on climate simulations and observational data to forecast the next 6 months of monthly-averaged sea ice concentration maps.
@@ -156,12 +155,6 @@ This is the public project repository where we manage the collaboration between 
 * ...and giving a more detailed talk on the research.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JAKWhEU09Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-  
-
-
 
 
   clients:
