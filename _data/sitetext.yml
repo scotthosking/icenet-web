@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Seasonal sea ice forecasting 
-    text: AI powered
+    title: AI powered  
+    text: Sea Ice Forecasting
     button: Let's go
-    buttonlink: "#capabilities"
+    buttonlink: "#highlights"
 
-  capabilities:
-    title: "Capabilities"
+  highlights:
+    title: "Highlights"
     text: "Lorem ipsum"
-    section: capabilities
+    section: highlights
     list:
       - title: "Seasonal forecasting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  highlights:
-    title: "Highlights"
+  Media:
+    title: "Media"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: highlights
+    section: Media
     closebutton: "Close Project"
 
   timeline:
