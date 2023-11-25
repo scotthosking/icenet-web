@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: AI powered
-    text: Seasonal sea ice forecasting and validation
+    title: Seasonal sea ice forecasting 
+    text: AI powered
     button: Let's go
     buttonlink: "#capabilities"
 
